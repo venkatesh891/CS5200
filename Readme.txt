@@ -20,8 +20,10 @@ Project Report:
 The detailed project report is available at "DroidNurseProjectReport.pdf"
 
 Short Movie:
-To have a complete feel on how the application would look like without installation then feel free to watch the movie "DroidNurse-Project-Video.mov” or 
-http://youtu.be/EoB7u0FhiLQ 
+To have a complete feel on how the application would look like without installation then feel free to watch the movie on youtube http://youtu.be/EoB7u0FhiLQ
+
+
+
 
 
 
